@@ -6,7 +6,7 @@ desc: A Custom Kernel for Xiaomi Mi 9 SE to enhance performance and battery-life
 ---
 
 > Discussion Thread : [xda-developers](https://forum.xda-developers.com/mi-9-se/development/kernel-okitakernel-v1-0-mi-9-se-27-2019-t3934029)
-> GitHub Source : https://github.com/okitavera/okita-kernel-mi9se
+> GitHub Source : https://github.com/okitavera/linux-xiaomi-grus
 
 {% for kernel in collections.kernel %}
 {{ set ver = kernel.fileSlug }}
